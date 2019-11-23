@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901807445331",
+    "firebase_url": "https://cloud-b36b3.firebaseio.com",
+    "project_id": "cloud-b36b3",
+    "storage_bucket": "cloud-b36b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901807445331:android:ace3ce8d8774e48d033da6",
+        "android_client_info": {
+          "package_name": "com.refra.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901807445331-4g95sjgiundk3a3croafckk4tlkksvf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR4SXolv7YfwILj1GVD8mySvWxmZadf80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901807445331-4g95sjgiundk3a3croafckk4tlkksvf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
